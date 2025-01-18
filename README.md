@@ -24,7 +24,7 @@ Find hidden corners of the internet. OWF is a tool that discovers obscure websit
 1. Make sure you have Python 3.7+ installed
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/obscure-website-finder.git
+   git clone https://github.com/xxanvv/Obscure-Website-Finder.git
    cd obscure-website-finder
    ```
 
