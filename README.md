@@ -8,7 +8,7 @@ Find hidden corners of the internet. OWF is a tool that discovers obscure websit
 ![Main Menu](screenshots/Main.png)
 
 ### Website Viewer
-![Website Viewer](screenshots/Website_Viewer.png)
+![Website Viewer](screenshots/WebsiteViewer.png)
 
 ## Features
 
