@@ -2,6 +2,14 @@
 
 Find hidden corners of the internet. OWF is a tool that discovers obscure websites by scanning random IP addresses, complete with a sleek viewer for exploring what you find.
 
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/Main.png)
+
+### Website Viewer
+![Website Viewer](screenshots/Website_Viewer.png)
+
 ## Features
 
 - Discovers unknown websites across the internet
